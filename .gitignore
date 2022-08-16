@@ -13,3 +13,6 @@ train_correct.pkl
 train_v2.pkl
 train_wth_cat.pkl
 with_features.pkl
+submission_v2.6.csv
+submission_v2.5.csv
+LGBM optuna tunning.ipynb
